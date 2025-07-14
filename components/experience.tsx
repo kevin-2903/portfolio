@@ -42,6 +42,12 @@ export default function Experience() {
 
   const projects = [
     {
+      title: "NIDZO - AI Finance Assistant",
+      period: "Feb 2025 - Apr 2024",
+      description:
+        "An AI-powered personal finance web app using React, Next.js, Firebase, and Python, featuring real-time expense tracking and intelligent budget insights.",
+    },
+    {
       title: "Flight Ticket Booking App",
       period: "Sep 2024 - Nov 2024",
       description:

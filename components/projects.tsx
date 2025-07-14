@@ -12,7 +12,7 @@ export default function Projects() {
   const [activeFilter, setActiveFilter] = useState("all")
   const projects = [
         {
-      title: "NIDZO - AI Financial Assistant",
+      title: "NIDZO - AI Finance Assistant",
       description:
         "An AI-powered personal finance web app using React, Next.js, Firebase, and Python, featuring real-time expense tracking and intelligent budget insights.",
       image:

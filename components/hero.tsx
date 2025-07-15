@@ -120,7 +120,7 @@ export default function Hero() {
                 className="border-primary/50 hover:border-primary transition-all duration-300"
               >
                 <a
-                  href="https://drive.google.com/file/d/1bOfhffoCcnA7l8q-bYg-1qMdDuqsGKBl/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1Yk7YoV7FFhFdEcUe9hTqbXX3yyujbJZW/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center"
